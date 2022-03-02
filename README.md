@@ -1,4 +1,4 @@
-# 郭 林 新 氣 功
+#   郭  林  新  氣  功
 ## 我係伍發昌 (昌哥)，創建本網站目的旨在與大家一起學習、分享和研究郭林新氣功。讓患者在練功過程中少走彎路，把握時間，提高治愈療效。  
 
 ![](https://raw.githubusercontent.com/guolinqigong/guolinqigong.github.io/main/image/a12.jpg)
